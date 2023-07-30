@@ -1,0 +1,11 @@
+pandas
+numpy
+dash
+nltk
+gensim
+dash_bootstrap_components
+re
+plotly
+xgboost
+pickle
+spacy
